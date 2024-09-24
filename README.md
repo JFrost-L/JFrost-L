@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Frost_L</h1>
-<h3 align="center">A passionate Computer Vision & Data Science Researcher from Korea</h3>
+<h1 align="left">Hi 👋, I'm Frost_L</h1>
+<h3 align="left">A passionate Computer Vision & Data Science Researcher from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfrost-l&label=Profile%20views&color=0e75b6&style=flat" alt="jfrost-l" /> </p>
 
